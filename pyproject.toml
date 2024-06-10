@@ -20,7 +20,7 @@ classifiers = [
 requires-python = ">=3.9"
 dynamic = ["version"]
 dependencies = [
-    "tensorflow==2.15.0",
+    "tensorflow==2.16.1",
     "librosa",
     "resampy",
     "birdnetlib",
